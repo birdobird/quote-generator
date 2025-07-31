@@ -2,7 +2,7 @@
   <h1>✨ Quote Generator</h1>
   <p>A modern and simple application for generating and saving your favorite quotes</p>
 
-  <a href="https://quote-generator-psi-ten-61.vercel.app/" target="_blank">
+  <a href="https://quote-generator-nine-blue.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge" alt="Live Demo" />
   </a>
 
