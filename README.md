@@ -12,7 +12,7 @@
   [![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat&logo=solid&logoColor=c4c9ff)](https://www.solidjs.com/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-  ![Screenshot of the application](public/screenshot.png)
+  ![Screenshot of the application]([https://i.ibb.co/Ldr3C6w4/image.png)
 </div>
 
 ## 📋 Description
